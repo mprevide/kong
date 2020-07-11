@@ -1,4 +1,4 @@
-require 'json'
+json = require "json"
 local PDP_Utils_module = {}
 
 -- Receives information about a request and encode it
